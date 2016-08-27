@@ -1,0 +1,14 @@
+{
+  "name": "Offcloud",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "aria2": "^2.0.0",
+    "fsmonitor": "^0.2.4",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1"
+  }
+}
